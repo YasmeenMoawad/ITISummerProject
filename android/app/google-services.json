@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "605986248032",
+    "project_id": "itisummertraining",
+    "storage_bucket": "itisummertraining.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605986248032:android:a9453a74c9ac4bfd65fa05",
+        "android_client_info": {
+          "package_name": "com.example.iti_final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605986248032-arlptaut0kdch4emtd7bes5729081nkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuCJUGC1SbLRyjvxIcmYXKlQLkpHt-lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605986248032-arlptaut0kdch4emtd7bes5729081nkf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605986248032-o63iqfa8q68k5j1j1ht410qdpoeb5g5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.itiProjSummer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605986248032:android:d41eeab47057093c65fa05",
+        "android_client_info": {
+          "package_name": "com.example.iti_proj_summer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605986248032-arlptaut0kdch4emtd7bes5729081nkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvuCJUGC1SbLRyjvxIcmYXKlQLkpHt-lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605986248032-arlptaut0kdch4emtd7bes5729081nkf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "605986248032-o63iqfa8q68k5j1j1ht410qdpoeb5g5j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.itiProjSummer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
